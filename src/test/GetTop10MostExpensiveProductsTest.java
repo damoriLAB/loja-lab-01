@@ -1,7 +1,7 @@
 package test;
 
 import database.ProductRepository;
-import usecases.GetTop10MostExpensiveProducts;
+import action.GetTop10MostExpensiveProducts;
 import util.ShowResult;
 
 public class GetTop10MostExpensiveProductsTest implements Test{

@@ -1,4 +1,4 @@
-package usecases;
+package action;
 
 import java.util.HashMap;
 import java.util.List;

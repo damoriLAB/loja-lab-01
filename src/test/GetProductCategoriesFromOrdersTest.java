@@ -3,9 +3,9 @@ package test;
 import java.util.ArrayList;
 import java.util.List;
 
+import action.GetProductCategoriesFromOrders;
 import database.OrderRepository;
 import models.Order;
-import usecases.GetProductCategoriesFromOrders;
 import util.ShowResult;
 
 public class GetProductCategoriesFromOrdersTest implements Test{

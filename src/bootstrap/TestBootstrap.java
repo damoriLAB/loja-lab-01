@@ -34,7 +34,7 @@ public class TestBootstrap {
 
     public void init(){
         loadTest();
-        executeByName("CalculateOrderRevenueByDateRangeTest");
+        executeByName("FilterProductsOver5kTest");
 
         
     }
